@@ -6,6 +6,12 @@ import java.awt.FlowLayout;
 import javax.swing.JButton;
 import javax.swing.JTable;
 
+/**
+ * 
+ * @author Timothy
+ *
+ * Report panel shows an aggregate table of student volunteer data by default, but can be filtered to specific data
+ */
 public class ReportPanel extends JPanel{
 	private JTable reportTable;
 
